@@ -17,6 +17,7 @@ export const HomePageHero = () => {
           </div>
         </div>
       </div>
+      <div> </div>
     </section>
   )
 }
